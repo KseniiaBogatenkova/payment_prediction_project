@@ -39,9 +39,6 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn, LightGBM, CatBoost, Docker.
 - CatBoost
 - Docker container
 
-### Срок реализации:
-3 недели с момента старта Мастерской.
-
 ### План реализации:
 1. Загрузка и ознакомление с данными.
 2. Предварительная обработка и отбор полезных признаков.
